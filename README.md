@@ -10,9 +10,7 @@ It's built on the NATO standards and is thus combatible with the existing system
 
 Current systems are expensive. A single system for infantry costs over **10 000$**. A system for a Main Battle Tank over **100 000$**.
 
-#### The west has no time to lose while training without tracking and simulating real scenarios.
-
-This project demostarates a **100x** reduction in the unit cost of these systems.
+The goal of this project is to demonstrate comparable systems with a **100x** reduction in the cost.
 
 
 ## "Ok, but what does it do?"
