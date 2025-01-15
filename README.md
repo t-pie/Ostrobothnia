@@ -19,7 +19,7 @@ This project demostarates a **100x** reduction in the unit cost of these systems
 
 This Repository contains the "building blocks" for the actual usable systems. The actual implementations of hardware and software combined into a working system have their own repository. You can find them all listed here:
 
--  link to Godgun
--  link to Anti-Tank Missile
--  link to Standard Infantry System
+-  [Godgun](https://github.com/t-pie/Ostrobothnia-Godgun)
+-  link to Anti-Tank Missile Coming Soon
+-  link to Standard Infantry System Coming Soon
 
