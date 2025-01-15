@@ -1,7 +1,7 @@
 # Ostrobothnia
 Ostrobothnia is an open-source NATO-spec Live combat simulation project.
 
-Live combat simulation allows soldiers to train as they fight simulating bullets, missles, mines etc.
+Live combat simulation allows soldiers to train as they fight simulating bullets, missiles, mines etc.
 
 It's built on the NATO standards and is thus combatible with the existing systems used in NATO multinational exercises.
 
