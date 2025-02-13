@@ -31,12 +31,7 @@ Doesn't seem like a winning strategy
 
 During peacetime, militaries would go decades without actually testing their performance. Live simulation technology has brought change in that regard, but we still have a long way to go in widespread adoption in all of NATO. The first step is to have every single soldier in the west train with these systems.
 
+## Coming soon
 
-## Project Structure
-
-This Repository contains the "building blocks" for the actual usable systems. The actual implementations of hardware and software combined into a working system have their own repository. You can find them all listed here:
-
--  [Godgun](https://github.com/t-pie/Ostrobothnia-Godgun)
--  link to Anti-Tank Missile Coming Soon
--  link to Standard Infantry System Coming Soon
+-  [Devkit](https://github.com/t-pie/Ostrobothnia-Devkit)
 
